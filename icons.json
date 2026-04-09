@@ -1,9 +1,5 @@
 {
-  "name": "我的 Surge 图标",
-  "description": "图标",
-  "icons": {
-    "yuan": "https://cdn.jsdelivr.net/gh/StephanieYa/MySurgeRules@main/icons/logo_yuan.png",
-    "Teams": "https://cdn.jsdelivr.net/gh/StephanieYa/MySurgeRules@main/icons/Microsoft_Teams-Logo.wine.png",
-    "Zoom": "https://cdn.jsdelivr.net/gh/StephanieYa/MySurgeRules@main/icons/zoom.png"
-  }
+  "yuan": "https://cdn.jsdelivr.net/gh/StephanieYa/MySurgeRules@main/icons/logo_yuan.png",
+  "Teams": "https://cdn.jsdelivr.net/gh/StephanieYa/MySurgeRules@main/icons/Microsoft_Teams-Logo.wine.png",
+  "Zoom": "https://cdn.jsdelivr.net/gh/StephanieYa/MySurgeRules@main/icons/zoom.png"
 }
