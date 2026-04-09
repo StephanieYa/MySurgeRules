@@ -1,5 +1,18 @@
 {
-  "yuan": "https://cdn.jsdelivr.net/gh/StephanieYa/MySurgeRules@main/icons/logo_yuan.png",
-  "Teams": "https://cdn.jsdelivr.net/gh/StephanieYa/MySurgeRules@main/icons/Microsoft_Teams-Logo.wine.png",
-  "Zoom": "https://cdn.jsdelivr.net/gh/StephanieYa/MySurgeRules@main/icons/zoom.png"
+  "name": "我的 Surge 图标",
+  "description": "图标",
+  "icons": [
+    {
+      "name": "yuan",
+      "url": "https://cdn.jsdelivr.net/gh/StephanieYa/MySurgeRules@main/icons/logo_yuan.png"
+    },
+    {
+      "name": "Teams",
+      "url": "https://cdn.jsdelivr.net/gh/StephanieYa/MySurgeRules@main/icons/Microsoft_Teams-Logo.wine.png"
+    },
+    {
+      "name": "Zoom",
+      "url": "https://cdn.jsdelivr.net/gh/StephanieYa/MySurgeRules@main/icons/zoom.png"
+    }
+  ]
 }
