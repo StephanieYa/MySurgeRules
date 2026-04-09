@@ -1,0 +1,13 @@
+# > 代号鸢 (Ashes of the Kingdom) 规则集
+# 匹配游戏登录、服务器及相关 CDN 静态资源
+
+# 发行商 Qookka Games 的主域名和 API 接口
+DOMAIN-SUFFIX,qookkagames.com
+DOMAIN-SUFFIX,qookkagames.net
+
+# 发行商的 CDN 节点 (用于下载游戏内的热更新数据包)
+DOMAIN-SUFFIX,qookkacdn.com
+
+# 关键字兜底：匹配内部包名和特定的服务器请求
+DOMAIN-KEYWORD,codekite
+DOMAIN-KEYWORD,qookka
