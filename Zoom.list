@@ -1,0 +1,20 @@
+# > Zoom 规则集
+# 匹配 Zoom 相关的服务、视频推流和 API 接口
+
+# Zoom 国际版主域名
+DOMAIN-SUFFIX,zoom.us
+DOMAIN-SUFFIX,zoom.com
+DOMAIN-SUFFIX,zoomgov.com
+
+# Zoom 中国区及合作域名 (如果你在国内使用特供版)
+DOMAIN-SUFFIX,zoom.com.cn
+DOMAIN-SUFFIX,zoomcloud.cn
+DOMAIN-SUFFIX,zhumu.com
+
+# Zoom 相关的短链接和 CDN 静态资源
+DOMAIN-SUFFIX,zoom1.cn
+DOMAIN-SUFFIX,zoom1.us
+DOMAIN-SUFFIX,zoom1.com.cn
+DOMAIN-SUFFIX,zoom1.com
+
+# DOMAIN-KEYWORD,zoom
